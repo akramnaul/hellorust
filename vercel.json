@@ -12,6 +12,10 @@
   ],
   "routes": [
     {
+      "src": "/health",
+      "dest": "/api/health.rs"
+    },
+    {
       "src": "/(.*)",
       "dest": "/api/index.rs"
     }
