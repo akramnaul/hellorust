@@ -1,0 +1,12 @@
+[package]
+name = "hellorust"
+version = "0.1.0"
+edition = "2021"
+description = "A simple Hello World application in Rust"
+authors = ["Your Name <your.email@example.com>"]
+license = "MIT"
+
+[dependencies]
+
+[profile.release]
+lto = true
