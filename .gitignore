@@ -1,0 +1,11 @@
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Vercel
+.vercel
+
+# OS
+.DS_Store
+Thumbs.db
