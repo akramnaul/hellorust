@@ -1,19 +1,11 @@
-# HelloRust on Vercel
+# HelloRust on Vercel 🦀
 
-A simple Hello World Rust application deployed on Vercel.
+A simple Hello World Rust application deployed on Vercel serverless platform.
 
-## Deployment Status
+## 🚀 Live Demo
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/hellorust)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR-USERNAME/hellorust)
 
-## About
+**Replace YOUR-USERNAME with your actual GitHub username**
 
-This project demonstrates deploying a Rust application to Vercel.
-
-## Local Development
-
-If you have Rust installed:
-
-```bash
-cargo run
-cargo test
+## 📁 Project Structure
